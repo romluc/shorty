@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Romulo:Olumor41@cluster0-duhz6.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://romulo:romulo1234@shorty-w4kha.mongodb.net/test?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
