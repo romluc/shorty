@@ -2,5 +2,4 @@
 Url shortener service using MongoDB + Express + NodeJS
 
 ## Features
- - API hosted at Heroku
- - Using Insomnia to handle api requests
+ - Uses Insomnia to handle API requests
